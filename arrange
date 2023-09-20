@@ -1,0 +1,160 @@
+#!/bin/bash 
+
+for f in ./files/a*.txt; do
+    mv $f a
+done
+for f in ./files/b*.txt; do
+    mv $f b
+done
+for f in ./files/c*.txt; do
+    mv $f c
+done
+for f in ./files/d*.txt; do
+    mv $f d
+done
+for f in ./files/e*.txt; do
+    mv $f e
+done
+for f in ./files/f*.txt; do
+    mv $f f
+done
+for f in ./files/g*.txt; do
+    mv $f g
+done
+for f in ./files/h*.txt; do
+    mv $f h
+done
+for f in ./files/i*.txt; do
+    mv $f i
+done
+for f in ./files/j*.txt; do
+    mv $f j
+done
+for f in ./files/k*.txt; do
+    mv $f k
+done
+for f in ./files/l*.txt; do
+    mv $f l
+done
+for f in ./files/m*.txt; do
+    mv $f m
+done
+for f in ./files/n*.txt; do
+    mv $f n
+done
+for f in ./files/o*.txt; do
+    mv $f o
+done
+for f in ./files/p*.txt; do
+    mv $f p
+done
+for f in ./files/q*.txt; do
+    mv $f q
+done
+for f in ./files/r*.txt; do
+    mv $f r
+done
+for f in ./files/s*.txt; do
+    mv $f s
+done
+for f in ./files/t*.txt; do
+    mv $f t
+done
+for f in ./files/u*.txt; do
+    mv $f u
+done
+for f in ./files/v*.txt; do
+    mv $f v
+done
+for f in ./files/w*.txt; do
+    mv $f w
+done
+for f in ./files/x*.txt; do
+    mv $f x
+done
+for f in ./files/y*.txt; do
+    mv $f y
+done
+for f in ./files/z*.txt; do
+    mv $f z
+done
+
+for f in ./files/A*.txt; do
+    mv $f a
+done
+for f in ./files/B*.txt; do
+    mv $f b
+done
+for f in ./files/C*.txt; do
+    mv $f c
+done
+for f in ./files/D*.txt; do
+    mv $f d
+done
+for f in ./files/E*.txt; do
+    mv $f e
+done
+for f in ./files/F*.txt; do
+    mv $f f
+done
+for f in ./files/G*.txt; do
+    mv $f g
+done
+for f in ./files/H*.txt; do
+    mv $f h
+done
+for f in ./files/I*.txt; do
+    mv $f i
+done
+for f in ./files/J*.txt; do
+    mv $f j
+done
+for f in ./files/K*.txt; do
+    mv $f k
+done
+for f in ./files/L*.txt; do
+    mv $f l
+done
+for f in ./files/M*.txt; do
+    mv $f m
+done
+for f in ./files/N*.txt; do
+    mv $f n
+done
+for f in ./files/O*.txt; do
+    mv $f o
+done
+for f in ./files/P*.txt; do
+    mv $f p
+done
+for f in ./files/Q*.txt; do
+    mv $f q
+done
+for f in ./files/R*.txt; do
+    mv $f r
+done
+for f in ./files/S*.txt; do
+    mv $f s
+done
+for f in ./files/T*.txt; do
+    mv $f t
+done
+for f in ./files/U*.txt; do
+    mv $f u
+done
+for f in ./files/V*.txt; do
+    mv $f v
+done
+for f in ./files/W*.txt; do
+    mv $f w
+done
+for f in ./files/X*.txt; do
+    mv $f x
+done
+for f in ./files/Y*.txt; do
+    mv $f y
+done
+for f in ./files/z*.txt; do
+    mv $f z
+
+done
